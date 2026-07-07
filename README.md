@@ -46,3 +46,6 @@ sample.txt
 Verify the file.
 
 If the file changes, the program detects it.
+
+## Note
+Do not create sample_hash.txt, image_hash.txt, or report_hash.txt manually. The program will create them automatically when you register each file.
