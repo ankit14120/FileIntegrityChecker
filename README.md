@@ -27,8 +27,13 @@ python main.py
 FileIntegrityChecker/
 │
 ├── main.py
-├── hashes.json
 ├── sample.txt
+├── image.png
+├── report.pdf
+├── hashes/
+│   ├── sample_hash.txt
+│   ├── image_hash.txt
+│   └── report_hash.txt
 ├── README.md
 └── requirements.txt
 
