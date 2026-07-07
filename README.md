@@ -24,18 +24,18 @@ python main.py
 
 ## Project Structure
 
-FileIntegrityChecker/
-│
-├── main.py
-├── sample.txt
-├── image.png
-├── report.pdf
-├── hashes/
-│   ├── sample_hash.txt
-│   ├── image_hash.txt
-│   └── report_hash.txt
-├── README.md
-└── requirements.txt
+-- FileIntegrityChecker/
+ - │
+ - ├── main.py
+ - ├── sample.txt
+ - ├── image.png
+ - ├── report.pdf
+ - ├── hashes/
+ - │   ├── sample_hash.txt
+ - │   ├── image_hash.txt
+ - │   └── report_hash.txt
+ - ├── README.md
+ - └── requirements.txt
 
 ## Example
 
