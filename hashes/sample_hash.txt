@@ -1,0 +1,4 @@
+File Name : sample.txt
+Old Hash  : 702baa6f20275bef610a74982e308c31392e103fefb0d3a87814b90bf42b7b59
+New Hash  : 5e60fd6e35280cadb3670e8e7cc86070a702338df2de0259195c0258793c9d49
+Status    : Modified
